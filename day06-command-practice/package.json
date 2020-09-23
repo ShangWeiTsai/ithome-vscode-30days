@@ -10,7 +10,7 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onCommand:day06-command-practice.helloWorld"
+		"*"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
@@ -18,6 +18,18 @@
 			{
 				"command": "day06-command-practice.helloWorld",
 				"title": "Hello World"
+			},
+			{
+				"command": "day06-command-practice.getCommand",
+				"title": "getCommand"
+			},
+			{
+				"command": "day06-command-practice.textEditorCommand",
+				"title": "textEditorCommand"
+			},
+			{
+				"command": "day06-command-practice.executeCommand",
+				"title": "executeCommand"
 			}
 		]
 	},
