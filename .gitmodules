@@ -1,11 +1,11 @@
 [submodule "day05-first-command"] 
   path = day05-first-command
-  url = https://github.com/ShangWeiTsai/ithome-vscode-30days
+  url = https://github.com/ShangWeiTsai/ithome-vscode-30days.git
 
 [submodule "day06-command-practice"] 
   path = day06-command-practice
-  url = https://github.com/ShangWeiTsai/ithome-vscode-30days
+  url = https://github.com/ShangWeiTsai/ithome-vscode-30days.git
 
 [submodule "day07-context-menu"] 
   path = day07-context-menu
-  url = https://github.com/ShangWeiTsai/ithome-vscode-30days
+  url = https://github.com/ShangWeiTsai/ithome-vscode-30days.git
