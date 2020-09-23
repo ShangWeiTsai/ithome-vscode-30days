@@ -3,8 +3,8 @@
   url = https://github.com/ShangWeiTsai/day05-first-command.git
 
 [submodule "day06-command-practice"] 
-  path = day06-command-practice
-  url = https://github.com/ShangWeiTsai/day06-command-practice.git
+	path = day06-command-practice
+	url = https://github.com/ShangWeiTsai/day06-command-practice.git
 
 [submodule "day07-context-menu"] 
   path = day07-context-menu
