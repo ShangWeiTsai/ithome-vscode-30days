@@ -8,4 +8,4 @@
 
 [submodule "day07-context-menu"] 
   path = day07-context-menu
-  url = https://github.com/ShangWeiTsai/ithome-vscode-30days/day07-context-menu
+  url = https://github.com/ShangWeiTsai/ithome-vscode-30days.git/day07-context-menu
